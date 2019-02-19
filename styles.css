@@ -1,0 +1,6 @@
+.board {padding:3em}
+h1 {text-align: center}
+.row > div {float:left; height:100px; width:100px;clear:both}
+.row {margin:0 auto; width:302px;}
+.top{border-bottom:1px black solid}
+.top {border-top:1px green solid}
